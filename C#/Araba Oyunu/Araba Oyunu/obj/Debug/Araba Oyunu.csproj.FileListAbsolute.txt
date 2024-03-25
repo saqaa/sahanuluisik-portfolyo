@@ -1,0 +1,41 @@
+F:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.exe.config
+F:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.exe
+F:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.pdb
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.AssemblyReference.cache
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Form1.resources
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Properties.Resources.resources
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.GenerateResource.cache
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.CoreCompileInputs.cache
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.exe
+F:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.pdb
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.AssemblyReference.cache
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.SuggestedBindingRedirects.cache
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Form1.resources
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Properties.Resources.resources
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.GenerateResource.cache
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.CoreCompileInputs.cache
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.exe
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.pdb
+D:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.exe.config
+D:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.exe
+D:\Araba Oyunu\Araba Oyunu\bin\Debug\Araba Oyunu.pdb
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.AssemblyReference.cache
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Form1.resources
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Properties.Resources.resources
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.GenerateResource.cache
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.CoreCompileInputs.cache
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.exe
+E:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba Oyunu.pdb
+D:\Araba Oyunu\Araba Oyunu\obj\Debug\Araba_Oyunu.Form2.resources
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\bin\Debug\Araba Oyunu.exe.config
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\bin\Debug\Araba Oyunu.exe
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\bin\Debug\Araba Oyunu.pdb
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.AssemblyReference.cache
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.SuggestedBindingRedirects.cache
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba_Oyunu.Form1.resources
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba_Oyunu.Form2.resources
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba_Oyunu.Properties.Resources.resources
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.GenerateResource.cache
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.csproj.CoreCompileInputs.cache
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.exe
+D:\Araba Oyunu(Devam Ediyor)\Araba Oyunu\obj\Debug\Araba Oyunu.pdb
